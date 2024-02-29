@@ -1,4 +1,4 @@
-# CS370ForeignWhispers
+# ForeignWhispers
 # 🌍 Foreign Whispers Project 🌏
 
 ## Hey there! 👋
